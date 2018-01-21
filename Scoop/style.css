@@ -1,0 +1,22 @@
+#header{
+
+    min-height: 34px;
+//border-style: dashed;
+}
+#main{//margin-top: 31px;
+    min-height: 278px;
+  //  border-style: dashed;
+}
+#panel{
+    min-height: 40px;
+    //border-style: dashed;
+}
+#text{
+    height:42px;
+    width:350px;
+    position:center;
+}
+#body { background-color: #FFFFFF; }
+#table{
+   // width: 300px;
+}
